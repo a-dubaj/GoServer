@@ -1,0 +1,5 @@
+package GoServer
+
+func main() {
+
+}
