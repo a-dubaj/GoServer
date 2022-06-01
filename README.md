@@ -8,3 +8,4 @@
 [![GoDoc reference example](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/nanomsg.org/go/mangos/v2)
 
 
+The purpose af this sample project was to create a server application that allows to routes for static pages. In this example for: form.html and index.html
