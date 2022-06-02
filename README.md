@@ -9,3 +9,6 @@
 
 
 The purpose af this sample project was to create a server application that allows to routes for static pages. In this example for: `form.html` and `index.html`.
+
+## Diagram
+![image](./assets/diagram.jpg)
